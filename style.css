@@ -40,7 +40,7 @@ nav{
 .pc-nav-items{
     display: none;
 }
-.mobile-nav{
+.mobile-nav-items{
     z-index: 111;
 }
 .mobile-nav-items{
