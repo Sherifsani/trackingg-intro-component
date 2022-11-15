@@ -40,6 +40,9 @@ nav{
 .pc-nav-items{
     display: none;
 }
+.mobile-nav{
+    z-index: 111;
+}
 .mobile-nav-items{
     position: absolute;
     top: 120px;
@@ -120,6 +123,7 @@ button{
     font-family: var(--b);
     font-weight: 600;
     width: 50%;
+    cursor: pointer
 }
 .bottom{
     display: flex;
